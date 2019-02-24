@@ -1,3 +1,5 @@
+# Spacer, a simple web app fetching and displaying NASA images written in Vue.js.
+
 # spacer
 
 ## Project setup
